@@ -1,0 +1,1 @@
+# land-cover-classification-of-satellite-imagery-using-CNN
