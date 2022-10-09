@@ -1,1 +1,2 @@
 # land-cover-classification-of-satellite-imagery-using-CNN
+Land cover classification using remote sensing data is the task of classifying pixels or objects whose spectral characteristics are similar and allocating them to the designated classification classes, such as forests, grasslands, wetlands, barren lands, cultivated lands, and built-up areas. Various techniques have been applied to land cover classification, including traditional statistical algorithms and recent machine learning approaches, such as random forest and support vector machines, e.t.c.
